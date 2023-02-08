@@ -8,9 +8,11 @@ Tengo una sólida comprensión de diversas tecnologías y lenguajes de programac
 
 ##### Lenguajes y herramientas: 
 
+##### Estadísticas de GitHub:: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAngelEsquivelIslas&show_icons=true&theme=dracula)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAngelEsquivelIslas&layout=compact)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoseAngelEsquivelIslas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoseAngelEsquivelIslas/JoseAngelEsquivelIslas#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JoseAngelEsquivelIslas&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/JoseAngelEsquivelIslas/JoseAngelEsquivelIslas#gh-light-mode-only)
+
 <!--
 **JoseAngelEsquivelIslas/JoseAngelEsquivelIslas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
