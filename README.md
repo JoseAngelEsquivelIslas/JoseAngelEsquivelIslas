@@ -6,8 +6,11 @@ Soy un desarrollador de software con habilidades excepcionales en el desarrollo 
 
 Tengo una sólida comprensión de diversas tecnologías y lenguajes de programación, asi como experiencia en el uso de bases de datos relacionales. 
 
-##### Lenguajes y herramientas: 
+* 👨‍🎓 Soy un ingeniero apacionado por la tecnología
+* :sunglasses:  Constantemente estoy aprendiendo nuevas tecnologías plataformas online como Udemy y Youtube.
+* :video_game: Dato curioso: Me gusta jugar videojuegos y leer datos interesantes.
 
+##### Lenguajes y herramientas: 
 
 
 <div>
