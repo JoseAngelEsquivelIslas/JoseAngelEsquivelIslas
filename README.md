@@ -1,8 +1,15 @@
-### Hi there,Jose Esquivel here! 👋
+# Hi there,Jose Esquivel here! 👋
 
-Soy un desarrollador de software altamente capacitado con experiencia en el desarrollo tanto para Backend como para Frontend y Móvil. Me encanta trabajar en proyectos desafiantes y siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
+#### Desarrollador Full-Stack
 
-Tengo una sólida comprensión de diversas tecnologías y lenguajes de programación, incluyendo Java, Python, React y Swift. Además, tengo experiencia en el uso de bases de datos como MySQL, MariaDB y PostgreSQL. 
+Soy un desarrollador de software con habilidades excepcionales en el desarrollo tanto para Backend como para Frontend y Móvil. Me encanta trabajar en proyectos desafiantes y siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos. Me gusta aprender nuevas tecnologías, compartir mis conocimientos y colaborar con nuevos equipos. 
+
+Tengo una sólida comprensión de diversas tecnologías y lenguajes de programación, asi como experiencia en el uso de bases de datos relacionales. 
+
+##### Lenguajes y herramientas: 
+
+
+
 
 <!--
 **JoseAngelEsquivelIslas/JoseAngelEsquivelIslas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
